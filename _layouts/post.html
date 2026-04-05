@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<nav>
+  <a class="nav-logo" href="/">Amy Francis</a>
+  <div class="nav-right">
+    <a class="nav-back" href="/">All posts</a>
+  </div>
+</nav>
+
+<div class="post-hero">
+  <div class="post-meta">
+    <span class="post-tag {{ page.category }}">{{ page.category_label }}</span>
+    <span class="post-dot"></span>
+    <span class="post-date">{{ page.date | date: "%B %Y" }}</span>
+    <span class="post-dot"></span>
+    <span class="post-readtime">{{ page.read_time }} min read</span>
+  </div>
+  <h1 class="post-title">{{ page.title }}</h1>
+  <p class="post-standfirst">{{ page.standfirst }}</p>
+</div>
+
+<div class="post-body">
+  {{ content }}
+
+  <div class="author-bio">
+    <span class="label">About the author</span>
+    <span class="name">Amy Francis, PhD</span>
+    <span class="bio">Senior Data Scientist at Nexus BioQuest, Bristol. Previously AI intern at Roche (Basel and Zurich), where I worked on protein language models and antibody fitness prediction. PhD in Bioinformatics and Machine Learning from the University of Bristol, funded by Cancer Research UK. Views are my own.</span>
+    <a href="https://amyfrancis97.github.io#contact">Say hello</a>
+  </div>
+</div>
+
+{% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 2 %}
+{% if related.size > 0 %}
+<div class="related">
+  <p class="sec-label">More from the blog</p>
+  <div class="related-grid">
+    {% for post in related %}
+    <div class="related-card" style="border-top: 3px solid var(--{{ post.category == 'opinion' ? 'terra' : post.category == 'industry' ? 'moss' : post.category == 'technical' ? 'blue' : 'terra-light' }});">
+      <span class="coming" style="color: var(--moss);">Published</span>
+      <h4>{{ post.title }}</h4>
+      <p>{{ post.description }}</p>
+      <a class="read-link" href="{{ post.url | relative_url }}">Read post →</a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<footer>
+  <div>© 2026 Amy Francis · All rights reserved</div>
+  <div>Senior Data Scientist · <span>Bristol, UK</span> · <a href="https://amyfrancis97.github.io">CV &amp; About</a></div>
+</footer>
