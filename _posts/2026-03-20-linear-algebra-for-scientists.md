@@ -2,7 +2,7 @@
 layout: post
 title: "Linear algebra for scientists - a coding-first guide"
 description: "A plain-language, code-first walkthrough of the linear algebra behind machine learning. Based on Chapter 2 of the Deep Learning textbook - written for scientists who didn't come from the maths side."
-standfirst: "Most machine learning tutorials assume you already know your eigenvectors from your eigenvalues. This one doesn't. Each concept is introduced in plain language, paired with runnable Python code and a figure, and grounded in examples from real scientific data."
+standfirst: "Most machine learning tutorials assume you already know your eigenvectors from your eigenvalues. This one doesn't. Each concept is introduced in plain language, paired with runnable Python code, and grounded in examples from real scientific data."
 category: tutorial
 category_label: "Tutorials & Guides"
 date: 2026-03-20
