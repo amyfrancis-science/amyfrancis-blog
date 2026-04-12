@@ -9,13 +9,14 @@ date: 2026-03-15
 read_time: 8
 ---
 
-I've watched some of the best science happen when people with completely different backgrounds and skillsets come together to work on a problem.
+I’ve watched some of the best science happen when people with completely different backgrounds and skillsets come together to work on a problem.
 
 Over the past decade I have had the chance to work across a fairly wide range of collaborative settings - competitive hackathons, research groups, and industry internships. Although the contexts, problems, and people were different across these settings, one thing was consistent.
 
 The teams that did the most impactful work were almost never the ones with the deepest shared expertise. Instead, they were the ones where people came in with different mental models, different instincts about the most important parts of a problem, and different vocabularies for describing the same thing. That combination - uncomfortable as it can sometimes feel - almost always produced better questions, broader solution spaces, and results that none of the individuals involved could have reached working within their own discipline alone.
 
-I want to say something more specific than "diversity is good," because the vague version of that argument is easy to agree with and easy to ignore.
+I want to say something more specific than “diversity is good,” because the vague version of that argument is easy to agree with and easy to ignore.
+
 
 <div class="divider"></div>
 
@@ -44,7 +45,7 @@ The pattern becomes more convincing when it holds across different problem space
   <p class="exp-body">This one was different - no competition, no winning team, just a group of researchers brought together to work on a difficult problem over a week. Without a competitive frame, the collaboration became more openly exploratory. People were more willing to say they did not understand something, more willing to follow a line of thinking into territory they were not expert in. What I remember most is the quality of the scientific conversations - particularly the ones that happened when someone from outside the domain asked a question that the domain experts had stopped asking because they assumed they knew the answer.</p>
 </div>
 
-Three different settings, three different problems, three different team compositions. The same underlying dynamic: the most useful contributions often came from people who were not the deepest experts in the relevant field.
+Three different settings, three different problems, and three different team compositions. Nevertheless, the most useful contributions often came from people who were not the deepest experts in the relevant field.
 
 ## What diversity of background actually does
 
