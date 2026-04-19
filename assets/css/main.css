@@ -221,7 +221,7 @@ h1.post-title {
 
 /* ── POST BODY ── */
 .post-body {
-  max-width: 680px; margin: 0 auto; padding: 4rem 7vw;
+  padding: 4rem 7vw;
 }
 .post-body p {
   font-size: 1rem; color: var(--ink-light);
