@@ -361,6 +361,18 @@ blockquote {
   margin-top: 0.5rem; display: inline-block;
 }
 
+/* ── GISCUS COMMENTS ── */
+.giscus-wrap {
+  padding: 3.5rem 7vw 2rem;
+  background: var(--shell);
+  border-top: 1px solid var(--sand-dark);
+}
+.giscus-wrap .sec-label { margin-bottom: 1.4rem; }
+.giscus-wrap .giscus { margin-top: 0; }
+@media (max-width: 700px) {
+  .giscus-wrap { padding: 2.5rem 6vw 1.5rem; }
+}
+
 /* ── SHARE BUTTONS ── */
 .share-row {
   display: flex; align-items: center; gap: 1rem;
