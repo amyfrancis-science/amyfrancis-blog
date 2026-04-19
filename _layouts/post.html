@@ -43,6 +43,26 @@ layout: default
     </div>
   </div>
 
+  <!-- ── REACTIONS & COMMENTS (Giscus) ── -->
+  <div class="giscus-inline">
+    <p class="sec-label" style="margin-top:2rem;">Reactions &amp; discussion</p>
+    <script src="https://giscus.app/client.js"
+      data-repo="amyfrancis-science/amyfrancis-blog"
+      data-repo-id="R_kgDOR6LSFQ"
+      data-category="Announcements"
+      data-category-id="DIC_kwDOR6LSFc4C7NKc"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="light"
+      data-lang="en"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </div>
+
   <div class="author-bio">
     <span class="label">About the author</span>
     <span class="name">Amy Francis, PhD</span>
@@ -63,26 +83,6 @@ layout: default
       <button type="submit">Subscribe</button>
     </form>
   </div>
-</div>
-
-<!-- ── COMMENTS & REACTIONS (Giscus) ── -->
-<div class="giscus-wrap">
-  <p class="sec-label">Reactions &amp; discussion</p>
-  <script src="https://giscus.app/client.js"
-    data-repo="amyfrancis-science/amyfrancis-blog"
-    data-repo-id="R_kgDOR6LSFQ"
-    data-category="Announcements"
-    data-category-id="DIC_kwDOR6LSFc4C7NKc"
-    data-mapping="pathname"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="bottom"
-    data-theme="https://amyfrancis.science/assets/css/giscus.css"
-    data-lang="en"
-    crossorigin="anonymous"
-    async>
-  </script>
 </div>
 
 {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 2 %}
