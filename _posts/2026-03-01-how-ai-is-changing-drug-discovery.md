@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How AI is changing drug discovery - and what the evidence points towards"
+title: "How AI is changing drug discovery"
 description: "The industry is reorganising. AI-designed drugs are reaching clinical trials. Pharma companies are embedding AI infrastructure directly into their R&D pipelines. This post covers the most recent milestones, what the evidence suggests, and the honest open questions about whether this could lead to better medicines."
 standfirst: "The industry is reorganising. AI-designed drugs are reaching clinical trials. Pharma companies are embedding AI infrastructure directly into their R&D pipelines. This post covers the most recent milestones, what the evidence suggests, and the honest open questions about whether this could lead to better medicines."
 category: industry

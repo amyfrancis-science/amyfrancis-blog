@@ -7,6 +7,7 @@ category: tutorial
 category_label: "Tutorials & Guides"
 date: 2026-03-20
 read_time: 35
+listed: true
 ---
 
 This is a coding-first walkthrough of the linear algebra that underpins machine learning - based on Chapter 2 of [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio and Courville, but written for scientists coming from biology or

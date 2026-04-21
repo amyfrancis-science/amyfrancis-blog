@@ -7,6 +7,7 @@ category: opinion
 category_label: "Opinion"
 date: 2026-03-15
 read_time: 8
+listed: true
 ---
 
 I’ve watched some of the best science happen when people with completely different backgrounds and skillsets come together to work on a problem.
@@ -71,14 +72,14 @@ These people are often hard to place in a traditional academic hierarchy. They d
 
 It is a kind of intellectual generosity: a genuine interest in what other people know, and a willingness to do the work of understanding it rather than waiting for it to be translated into your own terms. Combined with enough breadth to actually follow the conversation, that quality is consistently valuable in ways that are hard to quantify and easy to overlook in hiring.
 
-## Why we keep building teams that look the same anyway
+## Why this has historically been difficult
 
-Shared expertise feels safer. A team of specialists who all speak the same language is easier to manage, easier to evaluate, and easier to explain to a funder. The risk is legible. The counterfactual - what might have been discovered by a broader team - is not.
+The incentive structures in academia push against interdisciplinary collaboration. Grants, publications, and career progression all reward depth in a single field. A researcher who spends time building bridges between disciplines is doing something hugely valuable that the system has limited ways of recognising. That does not make it wrong — but it does make it harder to sustain. A team of specialists who all speak the same language is also easier to evaluate against existing metrics, even if the counterfactual — what a broader team might have discovered — is more interesting.
 
-The incentive structures in academia push against it. Grants, publications, and career progression all reward depth. A researcher who spends time building bridges between disciplines is doing something hugely valuable that the system has limited ways of recognising. That does not make it wrong - but it does make it harder to sustain.
+Hiring across domain lines has historically been difficult for the same reason. It is harder to evaluate someone whose expertise sits partly outside your own, and hiring processes designed around domain specialists can struggle to recognise the value of breadth. The people who are hardest to evaluate by conventional criteria are sometimes the people a team needs most.
 
-Hiring is also hard across domain lines. It is difficult to evaluate someone whose expertise is partly outside your own, which means interdisciplinary candidates often get filtered out early in processes designed to find domain specialists. The people who are hardest to evaluate are sometimes the people a team needs most.
+What is encouraging is that this is changing, and industry — particularly in drug discovery and biotech — is in many ways ahead of academia. The demand for people who can operate at the interface of biology and machine learning, or wet lab science and computational modelling, has grown significantly over the past decade. The best teams I have seen in industry settings are increasingly built around that kind of complementarity by design, not by accident.
 
 <div class="divider"></div>
 
-Interdisciplinary teams do not just produce better results, though they often do. They also generate ways of thinking that only happens when people who see the world differently are given a problem and asked to work on it together. That thinking is harder to measure than a citation count or a winning model. It is also, I suspect, where most of the important ideas come from.
+Interdisciplinary teams do not just produce better results, though they often do. They also generate ways of thinking that only happen when people who see the world differently are given a problem and asked to work on it together. That thinking is harder to measure than a citation count or a winning model. It is also, I suspect, where most of the important ideas come from.
