@@ -7,7 +7,6 @@ category: opinion
 category_label: "Opinion"
 date: 2026-03-15
 read_time: 8
-listed: true
 ---
 
 I’ve watched some of the best science happen when people with completely different backgrounds and skillsets come together to work on a problem.
